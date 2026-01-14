@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21,
+    "word": "путешествие",
+    "transcription": "",
+    "level": "A2",
+    "options": [
+      { "text": "journey", "correct": true },
+      { "text": "job", "correct": false },
+      { "text": "letter", "correct": false },
+      { "text": "movement", "correct": false }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "выбор",
+    "transcription": "",
+    "level": "A2",
+    "options": [
+      { "text": "choice", "correct": true },
+      { "text": "chance", "correct": false },
+      { "text": "decision", "correct": false },
+      { "text": "question", "correct": false }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "улучшать",
+    "transcription": "",
+    "level": "A2",
+    "options": [
+      { "text": "improve", "correct": true },
+      { "text": "change", "correct": false },
+      { "text": "create", "correct": false },
+      { "text": "lose", "correct": false }
+    ]
+  }
+]

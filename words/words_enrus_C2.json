@@ -1,0 +1,26 @@
+[
+  {
+    "id": 61,
+    "word": "paradigm",
+    "transcription": "[ˈpærədaɪm]",
+    "level": "C2",
+    "options": [
+      { "text": "парадигма", "correct": true },
+      { "text": "пример", "correct": false },
+      { "text": "структура", "correct": false },
+      { "text": "теория", "correct": false }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "meticulous",
+    "transcription": "[məˈtɪkjʊləs]",
+    "level": "C2",
+    "options": [
+      { "text": "дотошный", "correct": true },
+      { "text": "медленный", "correct": false },
+      { "text": "умный", "correct": false },
+      { "text": "строгий", "correct": false }
+    ]
+  }
+]

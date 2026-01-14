@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#ffffff">
+    <title>Linguist Mastery</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="app">
+    <header class="header">
+        <div class="top-bar">
+            <button class="control-btn" id="stopBtn" onclick="handleStop()">
+                <svg class="close-icon" viewBox="0 0 24 24">
+                    <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+                </svg>
+            </button>
+            <div class="logo"></div>
+            <div class="lang-group">
+                <button class="control-btn" id="btn-en-ru" onclick="setLanguage('en-ru')">
+                    <img src="images/us_ru.png" class="flag-icon" alt="EN-RU">
+                </button>
+                <button class="control-btn" id="btn-ru-en" onclick="setLanguage('ru-en')">
+                    <img src="images/ru_us.png" class="flag-icon" alt="RU-EN">
+                </button>
+            </div>
+        </div>
+
+        <div class="level-badges" id="levelBadges">
+            <div class="level-badge" data-level="A1">A1</div>
+            <div class="level-badge" data-level="A2">A2</div>
+            <div class="level-badge" data-level="B1">B1</div>
+            <div class="level-badge" data-level="B2">B2</div>
+            <div class="level-badge" data-level="C1">C1</div>
+            <div class="level-badge" data-level="C2">C2</div>
+        </div>
+    </header>
+
+    <div class="card-stage">
+        <div class="timer-container">
+            <div class="timer-progress" id="timerBar"></div>
+        </div>
+
+        <div class="card" id="card">
+            <div class="loading-overlay" id="loading">
+                <div class="loader"></div>
+                <div class="loading-text cool-label" id="loadingText">Preparing...</div>
+            </div>
+
+            <div class="card-content" id="cardContent" style="display: none;">
+                <div class="word-display">
+                    <div class="word-main" id="word">WORD</div>
+                    <div class="transcription" id="transcription">/transcription/</div>
+                </div>
+                <div class="options-grid" id="options"></div>
+            </div>
+        </div>
+
+        <div class="streak-container">
+            <span class="cool-label">Streak</span>
+            <div class="streak-visual" id="streakDots"></div>
+        </div>
+
+        <div class="stats-row" id="statsRow">
+            <div class="stat-item left">
+                <span class="cool-label">Mastery</span>
+                <div class="stat-value" id="masteryVal">0<span>/10</span></div>
+            </div>
+            <div class="stat-item right">
+                <span class="cool-label">Linguist Score</span>
+                <div class="stat-value" id="scoreVal">0</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>

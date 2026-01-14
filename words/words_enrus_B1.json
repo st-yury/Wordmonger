@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31,
+    "word": "opportunity",
+    "transcription": "[ˌɒpəˈtjuːnɪti]",
+    "level": "B1",
+    "options": [
+      { "text": "возможность", "correct": true },
+      { "text": "обязанность", "correct": false },
+      { "text": "проблема", "correct": false },
+      { "text": "результат", "correct": false }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "behaviour",
+    "transcription": "[bɪˈheɪvjə]",
+    "level": "B1",
+    "options": [
+      { "text": "поведение", "correct": true },
+      { "text": "мышление", "correct": false },
+      { "text": "привычка", "correct": false },
+      { "text": "действие", "correct": false }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "decision",
+    "transcription": "[dɪˈsɪʒən]",
+    "level": "B1",
+    "options": [
+      { "text": "решение", "correct": true },
+      { "text": "выбор", "correct": false },
+      { "text": "идея", "correct": false },
+      { "text": "план", "correct": false }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 41,
+    "word": "efficient",
+    "transcription": "[ɪˈfɪʃənt]",
+    "level": "B2",
+    "options": [
+      { "text": "эффективный", "correct": true },
+      { "text": "быстрый", "correct": false },
+      { "text": "сложный", "correct": false },
+      { "text": "дешёвый", "correct": false }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "maintain",
+    "transcription": "[meɪnˈteɪn]",
+    "level": "B2",
+    "options": [
+      { "text": "поддерживать", "correct": true },
+      { "text": "создавать", "correct": false },
+      { "text": "изменять", "correct": false },
+      { "text": "отменять", "correct": false }
+    ]
+  }
+]

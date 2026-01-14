@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "word": "freedom",
+    "transcription": "[ˈfriːdəm]",
+    "level": "A1",
+    "options": [
+      { "text": "свобода", "correct": true },
+      { "text": "деньги", "correct": false },
+      { "text": "работа", "correct": false },
+      { "text": "страна", "correct": false }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "house",
+    "transcription": "[haʊs]",
+    "level": "A1",
+    "options": [
+      { "text": "дом", "correct": true },
+      { "text": "машина", "correct": false },
+      { "text": "город", "correct": false },
+      { "text": "работа", "correct": false }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "friend",
+    "transcription": "[frend]",
+    "level": "A1",
+    "options": [
+      { "text": "друг", "correct": true },
+      { "text": "враг", "correct": false },
+      { "text": "брат", "correct": false },
+      { "text": "знакомый", "correct": false }
+    ]
+  }
+]

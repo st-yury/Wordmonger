@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21,
+    "word": "journey",
+    "transcription": "[ˈdʒɜːni]",
+    "level": "A2",
+    "options": [
+      { "text": "путешествие", "correct": true },
+      { "text": "работа", "correct": false },
+      { "text": "письмо", "correct": false },
+      { "text": "движение", "correct": false }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "choice",
+    "transcription": "[tʃɔɪs]",
+    "level": "A2",
+    "options": [
+      { "text": "выбор", "correct": true },
+      { "text": "шанс", "correct": false },
+      { "text": "решение", "correct": false },
+      { "text": "вопрос", "correct": false }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "improve",
+    "transcription": "[ɪmˈpruːv]",
+    "level": "A2",
+    "options": [
+      { "text": "улучшать", "correct": true },
+      { "text": "менять", "correct": false },
+      { "text": "создавать", "correct": false },
+      { "text": "терять", "correct": false }
+    ]
+  }
+]

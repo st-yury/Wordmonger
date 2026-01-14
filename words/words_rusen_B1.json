@@ -1,0 +1,38 @@
+[
+  {
+    "id": 31,
+    "word": "возможность",
+    "transcription": "",
+    "level": "B1",
+    "options": [
+      { "text": "opportunity", "correct": true },
+      { "text": "duty", "correct": false },
+      { "text": "problem", "correct": false },
+      { "text": "result", "correct": false }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "поведение",
+    "transcription": "",
+    "level": "B1",
+    "options": [
+      { "text": "behaviour", "correct": true },
+      { "text": "thinking", "correct": false },
+      { "text": "habit", "correct": false },
+      { "text": "action", "correct": false }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "решение",
+    "transcription": "",
+    "level": "B1",
+    "options": [
+      { "text": "decision", "correct": true },
+      { "text": "choice", "correct": false },
+      { "text": "idea", "correct": false },
+      { "text": "plan", "correct": false }
+    ]
+  }
+]

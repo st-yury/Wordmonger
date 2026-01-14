@@ -1,0 +1,26 @@
+[
+  {
+    "id": 51,
+    "word": "неизбежный",
+    "transcription": "",
+    "level": "C1",
+    "options": [
+      { "text": "inevitable", "correct": true },
+      { "text": "random", "correct": false },
+      { "text": "temporary", "correct: false },
+      { "text": "unexpected", "correct": false }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "двусмысленный",
+    "transcription": "",
+    "level": "C1",
+    "options": [
+      { "text": "ambiguous", "correct": true },
+      { "text": "obvious", "correct": false },
+      { "text": "precise", "correct": false },
+      { "text": "simple", "correct": false }
+    ]
+  }
+]

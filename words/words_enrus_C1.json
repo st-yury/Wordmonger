@@ -1,0 +1,26 @@
+[
+  {
+    "id": 51,
+    "word": "inevitable",
+    "transcription": "[ɪnˈevɪtəbl]",
+    "level": "C1",
+    "options": [
+      { "text": "неизбежный", "correct": true },
+      { "text": "случайный", "correct": false },
+      { "text": "временный", "correct": false },
+      { "text": "неожиданный", "correct": false }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "ambiguous",
+    "transcription": "[æmˈbɪɡjuəs]",
+    "level": "C1",
+    "options": [
+      { "text": "двусмысленный", "correct": true },
+      { "text": "очевидный", "correct": false },
+      { "text": "точный", "correct": false },
+      { "text": "простой", "correct": false }
+    ]
+  }
+]

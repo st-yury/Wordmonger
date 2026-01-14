@@ -1,0 +1,26 @@
+[
+  {
+    "id": 61,
+    "word": "парадигма",
+    "transcription": "",
+    "level": "C2",
+    "options": [
+      { "text": "paradigm", "correct": true },
+      { "text": "example", "correct": false },
+      { "text": "structure", "correct": false },
+      { "text": "theory", "correct": false }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "дотошный",
+    "transcription": "",
+    "level": "C2",
+    "options": [
+      { "text": "meticulous", "correct": true },
+      { "text": "slow", "correct": false },
+      { "text": "clever", "correct": false },
+      { "text": "strict", "correct": false }
+    ]
+  }
+]
